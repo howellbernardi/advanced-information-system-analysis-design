@@ -13,14 +13,14 @@ The project emphasizes **UML modeling, system architecture, and database design*
 - Map use cases to CRUD operations and database entities.  
 
 ## Contents
-- **Activity Diagrams** – User workflows for registration, booking, and more.  
-- **Use Case Descriptions** – Detailed steps, exceptions, and stakeholders.  
-- **System Sequence Diagrams** – User–system interaction flows.  
-- **System Architecture** – Three-tier design (client, app server, database).  
-- **Database Design** – Schema and example records for key tables.  
-- **Class Diagrams & CRC Cards** – Object-oriented system structure.  
-- **Sequence & Communication Diagrams** – Data and process flows.  
-- **Package Diagram** – Modular organization of system components.
+- **Activity Diagrams**, User workflows for registration, booking, and more.  
+- **Use Case Descriptions**, Detailed steps, exceptions, and stakeholders.  
+- **System Sequence Diagrams**, User–system interaction flows.  
+- **System Architecture**, Three-tier design (client, app server, database).  
+- **Database Design**, Schema and example records for key tables.  
+- **Class Diagrams & CRC Cards**, Object-oriented system structure.  
+- **Sequence & Communication Diagrams**, Data and process flows.  
+- **Package Diagram**, Modular organization of system components.
 
 ## Tools & Methodologies
 - **Modeling Language**: UML (Use Case, Activity, Class, Sequence, State Machine, CRC, Package)  
